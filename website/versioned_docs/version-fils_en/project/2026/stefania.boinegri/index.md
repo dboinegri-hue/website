@@ -3,7 +3,7 @@ A wearable, motion-controlled gaming interface.
 
 :::info 
 
-**Author**: Boinegri Ștefania-Denisa\
+**Author**: Boinegri Ștefania-Denisa \
 **GitHub Project Link**: [https://github.com/UPB-PMRust-Students/fils-project-2026-dboinegri-hue](https://github.com/UPB-PMRust-Students/fils-project-2026-dboinegri-hue)
 
 :::

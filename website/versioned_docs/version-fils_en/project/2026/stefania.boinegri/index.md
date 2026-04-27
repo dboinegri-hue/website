@@ -20,7 +20,7 @@ AeroGlove was directly inspired by my time as an exchange student in Sweden, whe
 
 The main components are the STM32 Nucleo-U545RE-Q microcontroller, an MPU6050 accelerometer and gyroscope, a tactile push-button, an RGB LED, and a vibration motor module. The MPU6050 connects via I2C to capture spatial orientation. The microcontroller communicates bidirectionally with the PC via a USB Data Cable, sending inputs and receiving real-time feedback signals back from the computer to trigger the PWM-driven vibration motor.
 
-![Block Diagram](./diagram.svg)
+![Block Diagram](./blockdiagram.svg)
 
 ## Log
 

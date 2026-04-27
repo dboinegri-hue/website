@@ -1,4 +1,597 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 718.3333435058594 318.99998474121094" width="718.3333435058594" height="318.99998474121094"><!-- svg-source:excalidraw --><metadata></metadata><defs><style class="style-fonts">
-      @font-face { font-family: "Comic Shanns"; src: url(data:font/woff2;base64,d09GMgABAAAAABrUAAsAAAAALtwAABqGAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAgQwRCArCPLddC1wAATYCJANeBCAFlRgHIBtgKDOjwsYBQIK8JKKKsjCiiGn2XydwQ0TUPaB9QQgnAWQh7+lur7OuwTT7Ysq+6FaLvMU0Ma42uHmWFXkAXeYeQ2vaPx+GU0b87hEa+yR3eNrmv7g7jrsGOUFAEAVxYqE9VAREFAPshS51WT9d5O9Flj8q3a/0b1/nb1c9uaYFVkNIEcA+UIGSL+mdB3ZzctYtBQIA+Ke42Nud46NjCCjBBFIMEm3CRPr/p7P8kypPk7BGaLOW6aBCtnXAQewjv3S77YFhiQ0LTANFee/8vrWwICiUUT5Cs7F5/petsg04sMQBpLvpnQ747xd4uQ1pK+mPzBH6TJ+JXa2VdvcTVsAO2EXICJk4N9OzOH20e4GBZ5wNPaD6uNxLtxMgEiZRpFBYElJFR6VemAjlApUtE68jPgKcCDUFqTTa1ag1OrwaB/w6gD85ZEBsHJExsY2Ri0uhtj8Hb7ytRZ12AHQFuJUUy7XAcY93uhXW7pXWB5EhSJAgbv3dAwC8DviMBNBzRwIBCP8k8E61J3g9FEDw74vvC6QA/P4X5UPiqfUBAVjXa+1rH0XrYBe5OI6pEN6slbhPxjlaPB/Dys4lIK+obIjCWeK7p+adTh6ZtTXYmql1S9++yX7JX/dRH/ZB7/VqU000Drrsg8X56jTucGdoG/sGiDrCufB2B2+IvxBdF/HfjItlaI6KCw9DFZz9AV9SSpIsl0fLuKj5okSRA8ln7bWRTLrBeperuNOqY8o2VN0p94wckq0Eqzx5fGh72SRuY+2dOxdOPW4QWGIEUYlXV1cljiOTeKkkzl9EDnIES97cmf1lRSktdIODKdlZql4xBiEyoxDiXC9KYo7FQrSuAS/3d/9DhMhDiLy18D4QWNgR82c3HEhUa+guDeMN9MIO2xIf+hx1WEhEhRUCWUSejt73U8/jws4OFgYYPKSXf1LfJyw5fY1tIGMdAM1JTGl99iSDSKycnP4hFloQ7UtMtZnMEmcbxSD6BlTi7e15wyBSowqve76HRfAWLnF/lByuffoFogii/IXEs5qTlbQu6D1+K7Dc+AWAQ42dnbQKe8nTSn1KiCW0hqm4QgtzwUCUdByjq3gWGvwaB5QartQyogGye/aW3n+Cp64ni7gdUqRVp/YmnecR6d1cNas54RGBTHy5iAUC4BUh7NbHFycSn0djq6MvH9QSA5IV/k3F6c1IHhggQn0o2FBsulcejU5u5s6oRsjOwkwL0UT80FzWGK3YWRghfRx6eEi4p3vPE1GMGMQDlUEtaUGsT/dMHGP6uu3OP0DhqnY8NZf+vQalz3jVSr4EAD22mNPSnJkef+AeTG6Z2zbkPBEHA4j4LzJGbFLFZGY4gJTMRA1ECdX0R1RQAMwpLKLA9gRsZK6a3Kx8KGE0P+aIhBAvhwUufsaYhCs6WptMcWDB9qj4W/8zhmVhhFUSVHXjjOu2HtLzo/Po7Mm8ESIiErisVWuv1XaRJ6KBZY1jBBJolR5XTwaebiUKIoQ9gOER3mlrIlphgvJ7f6fHVogaacDjLqKjsorKjtLap7CJrWdsrI9oae5UTHeYRXbiwYowR6uro3JKjUjY05onNT5A1/a43mLCNzDJnB4LLk3jPgJNJlepTj4A/B7g6kAI4LB6Xi+HuH9H+s1D0B5joha2r+cciRVCrOn9boUhmb7oN6pT2ptQAg9JuImOdiUgx0HoXTUnzYhEcDhYxZzpHKpLz5IXtbDzY6KjAceMgHrqe2jQWMpJ5LwQbT2AKg5NoFrHefBcQRGip2WkpahG9QrnSgXAzTFdhxJGQUdDjzn3eCrz7MyzyTsaOM3WDuGlBx5wiamv8TmAntnQ3De8nl3cBaKPk0DBLeO/ncyLio+0TTc2JmZFt8hOYmql+43s14uVDnKPeYoTikEIcYiLkP9qc9fhsCqGl6vO8Ol4RgkH+66q7dL9kD4dMG2HNyJSyLNHmbM09U045vxq8cvBVrbFpAiqAs58fURGxdHBtwnV9mB5Q4ounEXj/DfGlvQUZBQN8z2oS2varvYC0THn1Ve33AsvgTc5W2LnYEWmNc/z8OPt+YyQM2NkHJOdKCuT8eua1cnUyUcXCjti4EXV5+PcdbSP8Kl4NVIEHeJAwYLQ3rmD/sc8e9IfzSN/dKOhsY8HKIIM2iJ9cAC5um8b2sIi7DpYe7KZImqeoLchAH7RgY1oONDlOhUeN+7zYAsI/Tlx90CzbPHn7IAJkORt3jan9jA94JUtK/C4ifehvoZSipZgjW6j4uHqIU7KMg3Hk5te5tGhNABWrDJz60X90Lh8kky4H2O9srjgTIgrKyo95stOcc0G9gJt6SksMwsjJokgt+M3Z+l7B+DasdKR7zpl/tIw+X2Hl5Kqmu33AUuBH7Ejd4brnncfo1xQ33wLy7kPiIyQmf7hsIEdjYzEk7M0g1xQ9+mpKsGSM1Xrku4SranZHAzYmLHoHe71N653fGswZruRSso3Oiv74kTUcDavF2adxOM5RCMfWtYUC8tEMqkS8vdnUgItTj2XWProeQk4+wrLN6uMmeybXVrx4Oz6W3Nzuo5Ge+UZpdTKSxegnTKTVJc5ctJxD494cnbQZTeEKNhM24IfVUnfiAgRHK3ywyJY3ejhpiJvzoU3UFoOHEBTXq8/YpwBEc6VxgTYY6NXMl213VNOeWIwgiHjovL2BMuQ+/w8oQxwOYAb45kVuMfG6TCYY3hVUbkz1wAnrdCfp99jEHmHiNolpi4FAK+DPVav5eWcNAtng1RTgf2wAKLULdHwDFoypt8w7R6nwWAyewBn+KAXKXqjL4vu9l+J7W1Z8sBetxa/lpjeB6Bo/bjcntAnq6j2wjV5KNGclFZysWzNLv52b3C9peIcXasllEMlNMaiSs10YSRPbUeD4cz42Nw7r+W4sFPzJHvopiYwI+9ECk7vJUi3wnQ3pZgaAASMkWAlK0Jh5vZs27j30IdlY6dgiSh7ss2rv88j2pp1UxOML1h7eGATN3h101IAorvGyCO2p3uAnDyl9eWociQw4nlg3wyeejSuUuLIem5rmCSWKdJbwfWpmEpQ0T3Rxb3YivVIPlII4WqXLoXebw72Xn4aIzU9n3FdJCaYJ3myMADMnftOazBuWmTdVbd5phco9Jo4tU8rc1TEHAaNxPLfeRt3PZ7WlNepsRh0ACghMECEoV686q249u9Hutb3yfkPhjO2o2PlysDn5z6AC5xX6pYrTn38JjroC+YU3QcXtvLV/+7VX6fAozf/P7r94aeH8t31U8dI0va+4rpzsWRy8H5mSJV/qfb5wCwVt/5amY7iAaE0g0cnj0conlWr7ToLN7pvylRP2O43+Gy1OVZOSVM4KjKxP9k3ppzZ/C/FkCVNM09lDbtmMOds/a+V8AVRYOpLmeWONIXyEs1uknTlZnXMP+EPvHwS1BcuCsSfs42bPLI9Y5etNm3o73lj7V9lOt4uI/aMlhdlOjDBe8dr0yfgcaj17TIxNV5bNmqCpiuYuuIfq/uI2+nNuEb3IMhT/XUEKYDLL7XPmz3Fdi4+sGihQBJZ/e9xhPfcOdU9U02o1F1UG+jQvq7VpOiqf32tCCGU8uWlfGfH1StnMgnum/4sghQWwsjQ8ikjq5sgwsiy8UXvpbkhsbYCrNHJRp6LE8Ts8tKEM8v9o0luzgc/ihgLQ+flN4TG1U35563feYSEb6ncQjKK2uEkeFotxmMRSlCfpmGTK06tmXqgLvTTlM0JgadzgZzQ60drQCCyWCCJun6Kh6iHvtbqCtZPb8vLCuUXTezYYp9Fs88WcGVRKqJ/MH2SRohvBKNgB0jXdtTxBHZkLpJHd3+9157+lWSWMuD9LcnFQ7zxzymhlMeXbZnY3F4KrvflJowY6qt3ZBQ1ufKiPz7nI0nQmb46MmJmho9EWOpTNOyjX9kP9og7WhMaS75sS8hv7Og4o8mKumdrCbU+3/xklwWhOM5TaR5+A/zIXbrUywl7sPzJkRiMUTJOU2ej+QaKYWiZJ7Va5gWZ6Lxq7WGoTJEc9fXlkbkbNqyecDM6R5cgacoLJzizG+Skb+lkKlunDC6Ky/6BOq61fvLorfi8bGWQwTOYnqTMNysMMYclpT4fdG6V8TvF0dMIs9/S2XNNrpgPexHmB1J0Kswe/Epjry8KjEtbXmXxCP8aS0ekLrn5ww+3tFLu508dWZWXTlJZNcntxjrnRM/JkQ/NCoAiE0W1Pfw683JVYgiRyeahhdALjTGiludPUXnSsGnEgme3OI3NucGa9IEx0MsY42Y28tnGZ65IPktL8dzh4cmuN9j7wfskSclvrekgy7xaUzTz+eKkOjB+gZk06UQMmBfk3fkTD4wj2utw/eyznDhtSgzGa3tGuyK768ivCNTmSRtLtBBBLMnjLYt15ChqFGkRQ/EZznXN4/Bw6my3Wpm8mxNP7lAw+DWvv4wJk16NmV0kmrjWPyhZ7XK0lEY/PZ4NEcXnnuLpHtk1K5iru3lqsOlTi7Po2B+zuz7/W7TXewKdaauqGXpnzQ++bq2YtGh988vPzVHRc38o/hk0Fr+ZmelV4RBo6cRx8TFCDJwZmomQsuUVUZi4qBpW6PUjQUQ1S+HE1Q9rCK+tkuhWqTS6VFIwZ8fjitzsekDiZaaPkEnvvomz0GRsNowVhRA4QzffR88n2mDAc4dIj5FzxAZQC8ok/DYRlH/40ZhOHULjYRkzuTB1HDGcrlCfi5DiQ3sEsQ8ExJE/SAhLG55PbYmZr6zV76K90+nVZAsOtuXFAJIEpl0ShJnfmbTsxJos9X3MFK5+2vp8h4AQf6tpiXaZvEFaOzqZeZiqCHNNfOWLJU3BJBEh/oWSInYv9xy3o7yUY5Kj/WNp9TrVzgbmAXondRwG79MtIyryuclc8yvgvBrAkyDp4KHCQ/650XV1O2PLcNkmtCIG6zBFEfhQt/mvSY/JgJ9Ch+sZ1ufA2FZk0BJe/u+OPd5ltWtrH1vFB2EQB/H9HoKQt72uMX5YSIMW1+gcMJF6EVxWToeSswO//JhBYA+131Q9ZV5t2B4wNSdFc6w0TsE0VTmxPz34frXgqs0clp2mTCTqeIpMyQsHGtw5vur/upMsVh0JWf+8mQB+65yXiMpKqAZVzPUbGojAjy9qMcaNcAp6mGPNAmMVNAmtarpizduJz687o8qIGvYkVIk51hEef4PDNU8OEBd5WKEt0uu/XmUrCdip6QbbZ4/cBJySG3HmBcwjZaBJLyIipuopc+vDVbM72TlWmjbIkpoMhw5mll/8p6jycoWaTl66cQVLlcV88Xrx8ItvdXO1zFpYPU8mSfdHL/XNX7VkwHVkOjWMNts4NiNMlflq3Dn+qv+689QGc1xyTEDzKThKvfl4jb/dp8PljXSdJkY9sJZVP7z00ROJaj5BqxJY1mgiLQaeU7VqSNXopuZYhj7XMI54IqPF74w4hgR91jZ5jqHZ4/d8uz5fzJ++cSNHkJeSf1aoUMLMHpLkejuIOeZ026aGIW1GeywLihcLJPZ68qe1y2n6KifJqnyyod4coLThPLMu2Vbpzx9v8zFZ4+xLHD/HOxIokl+b82GG5fO/3zckfrnXh1ocyVqfNd/VEvaMteaVj80DLVttbcQMOBs69XpO3PVELETWatSTidbgLXgdjGFuyhCp5H8AxMfGwwCxG0YMqbJ4JoxtS8fIwo5tMgmIiyjsnhgqbo6zW6v03gLXaBhUoelQn6FjofpjWRpvrM6HD8Cp2PzvhQxHaXMT2TaEIhM1MgbNWtceSX6AHgLGMtwwcHV9/6x8NT9jae764qcLjh9ren2Q5+a6PSeLTrqeUsVrLY3d2eHoSt+UufmuzpuzM3114sz6ncnr1Grw12Jrvk4mE2Lb2GmdEaFtAl3JH6cm5WkVAVIkgRX6zSIRzQyxq7j7hfau3QMupMK5VB1ZSfqcpeJWebu8YkpTk/3qn06y2MTOYLqYWaoWoKJ0NWP6x9LMeqcJIpmoV01hFrYV0DXujphnle6YJ8H5TQ+V2pPUNMu1vhBHSys/kRASv73WFd9m6awcmrfIZ/9eH7COdD0QCo02dwbtthvK2kpO0W/J2z0vEbe2ZqRbtNmfW2rAdZLGJfdQyF9lc6QH9Uv0T/YgKHz3Z0IJaHUNTwPD4G7WMmcQQWlgIF4BvuLwmvLYrN5Km/Gj59O+X41w0i/3igQrYNMse8BtrbPuevDWX+DbOSWs0Hry6jqWHpO049F0p/biCWvtEBUtAn34iyhFpR//v/3NxDEqdt3VriSVsG66JhxSpZJkb4Xt2rOnEzEGkdT7QjVtDnd2TRW4E2+beXY0pdv1bkbqP4WO6oShPlksITDGrne/D4cTetNDyiJQhe43JPZJgy8dMREkTcxAi1BXiloVmO8fMJkXvlT6sKJX0RKQBCldr0qGqJszF9fxggeBX/PXvf/8CIIYCbJ9Wd4Z3pyEEl+Lza1zD3Y96nrses740RXWsLki9r7J/2RhrA92auo1IzUEFg79EMGk+Gmddk/LztS1r5fH+s3WEfe01Voc3ohJhOhB+Ch6HEWsdmXH44Ls0GXA3tMkyQ5SK5RoC2nFHWgWGC+6kmSkNwv0YAXkTY9uF4UHd1j4djAbzATxil4jPPQEWG60viX1LrbwxchYpNWCMAv52xKSPn1EUanYIItfzNC+t1LyewrMSgPyIqcVCeY0A8aJm18SIRIGmFg6UaNlVWp1muRkIDTWtH0gWZxJzkQdIgjTCx8KEImzEwTZkh30hz2yPrPsiqBRq3nOhSPg1FFKVKXVuYt93jEwCsNsGd/gNB39VIJI+pu1FPEzM3D1MJtFGfPhYhXNGXgXU2OIvzEgQ9S7jBEfQJQ+z09VsYLppoSg/OMRhQR39b2VKe7Apx+6CFxgGl0QbHTmp1SbC32XXy4URGparWcOkmsxztvZjSpZpuXb1MKCggm4iSLLRswA0XPT/zvT2+ohM7FSpthSy2NNxkkggnHicy9m+itSe3nOHP09CAI0b4z96BNp8EvOjPfBZ5sfTa+OrmFAGIZBJN+EgMXbs2aZtyiOImVxn0mbELIuB68/aeZXv3v38AQXSe49O00PcYzHPeqdTII79JMlQSAwgtIxpz8x/Z4HIYriOJc6yiJoOP++iNDgIj3chUilIKAKswKllT9+ycSAiuJSjnFE+vdz6iVNR4+scmpr1ZJNI+mLemqkcLTVGdrbclj966ZGksC8qdQ+W8Uuv1kUXjHJMFAv3NawL2z4gXr7xVpldf/beooMpXnLU0fEurPb0sBp1cfatXqKCsCORhhR61M1Be50w5+COGBQ+B4ilmUS8zlOlhaYZJNKlSyunoS1hj9Frk+vdII3ES43qWiVQMfq3iQJ3bh3Pv1mRhYmhKOfg5WmuD9Dz2SoVy9+mUwjHbDSnp7MxTK0fr+k+UMf62QTeN4OK8oDl+JczSnvCQGVHbYYdcsH5SuKDQRYFPUvMx8YRFC+cQNM8q6xyaRQzMUZf5fY3VaF5bQ6XtRru2fttkiS6NqbQJDVPkGANXj4PP23An89VhoBp4JJ0Gz4SxDPA8kBXABIKoABRkppRd+79+lFACxyDu6fIPi7d/HRgieO3nfLm4obcNUuRf1n0D5V/emK/XL7y22HDO1/N2yV3995I59mjxFL3maOzo5Gz7FjLYd2xP8Srh+tZdHB+7/0HVsM6cI3bWDqKgGt4+riUmb0J8ld0lLk+d063b+QCO2WLe/aTnl9g+gAZ5cAiq3NaC36YewKhrq9/ehqUkVIu8Y3fcHfWf3zryIvPd57eX0GH1DW4BdsldP173hfSuSd/Y9Af/l/ziqo3/n5S+hPPQOLQVMs/kUbXVifn3aJIAiav1OWMXPhT0F3b+DijcZ8Lnqu0CweAAD4WR2aAQEA5/IW+P/3XfuPZwDQEAAAgMB/mBXUGlnZkgAR3r08mst51gAEYJEPgUNcRIVfVJCegf55tMUdGyc7b/eyMI0GbqWUZO15eWk+Zjmhxci+nLCCSCGA7DvSTgQRwgPujWXv21SGE0vnDjUA6ofg73QPcvrdQwRr97CxXE8Je4/EcDiF/xMAv4UZDqGLhZmbg+w6KAzeFGbNzcHLwaVgYQ6d+Do6UQDP8DcQAVDPwelxwJwztyB7VVzF84GHz/MwqFldWU9U84myJ4oKM92X9tQ5DM0QwERpBuLeu4WwZOtAHb5d3HN28PB6BQnxVCrOn5wDzBTl4B1DkCe+4J6BmY5yIAQTKVp16cKi7g0tPi9Eco5jFIb6m7WF7WxW7XPA0ylUzNmp9mo9QlrX4zALTp24A7HjTsHhgLXW62gxkGyFFoX0xSCwDKxTWEIK8DOrJSggPBdwJZYq5xgX85YmVLiCjETwl1ClRBpU5KvglROmwNhQza/kzbokNKzZksbJACkTHtRHGt3ltYY5hZVHI6SiHcHMjScOOnFGLvB1MLDK6HZlAAqkE6aWIBXcMplTXDmNfz241U6bjJIWm/6mks8yI2Ckvz+livJlgvCYhNhf+CqxcA5z7cKV9XS0VSFnuwUGmoqy+OBUt0pv19YQJrx2xrLf1KAR2tqKevusDg5dtXR+qvkJrhZBV6xhq/mGMWpEhxVcaHKxBtbCRPCgq9aTUGT9isbDjsFFm8/XiLWWLVcgoVXAWvtfWa6nN0+QSBhXAviv1XaR1Q5A36WYcZ3ctlqag3ESjlWz3bPIcGTPkonS6EhNpokqv9xKBz8GNFwoEmuh6BBLTxU5WUSivpeweS+Vp2lugBUsOXGPTMRcSgt/hqyqqxeEPCoempAe3MmFvTqf0ltLi8oEX/HansoovWkB6W4kkg2rVD2S6iVnjIliLAr24UX4HBOj1Cl50AMU3MR14RuD0vsPrSGThyBV4r9USg7JcELjy2ke1MQYUg9s10FI5ISja1dhspOBQ230GctMYisUaK5LRuoiqQdqiVpJ4kkQin4XwxmLsq7EBHJQWQU1bdYNrOpo2YI+i0tDRy0CctJGMeKtsZRbAjVbuCGRzrfWDuQKyYM0s+JHpKhR1No4Vhv9Rlg/7KBZ6gy30AmEU5oxRQ1tBd4M/fzndgcAAA==); }</style></defs><rect x="0" y="0" width="718.3333435058594" height="318.99998474121094" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(224.33334350585938 119.66667175292969) rotate(0 135.66665649414062 94.66665649414062)"><path d="M32 0 C106.55 0.34, 183.46 0.49, 239.33 0 M32 0 C89.11 1.56, 147.5 1.73, 239.33 0 M239.33 0 C259.77 0.31, 269.45 11.71, 271.33 32 M239.33 0 C260.96 -1.76, 273.22 8.58, 271.33 32 M271.33 32 C271.41 79.97, 273.25 125.65, 271.33 157.33 M271.33 32 C270.26 65.33, 270.87 96.8, 271.33 157.33 M271.33 157.33 C271.34 180.24, 262.58 189.66, 239.33 189.33 M271.33 157.33 C271.92 178.08, 262.46 189.19, 239.33 189.33 M239.33 189.33 C158.44 187.92, 77.98 189.04, 32 189.33 M239.33 189.33 C170.33 188.65, 101.79 188.98, 32 189.33 M32 189.33 C8.96 188.8, -0.87 180.43, 0 157.33 M32 189.33 C10.49 188, -0.25 180.72, 0 157.33 M0 157.33 C-0.94 124.14, -0.47 93.6, 0 32 M0 157.33 C0.64 129.2, 1.45 103.6, 0 32 M0 32 C1.49 8.7, 12.4 1.03, 32 0 M0 32 C0.01 10.12, 9.67 -0.08, 32 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(277.5 189.3333282470703) rotate(0 82.5 25)"><text x="82.5" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">STM32</text><text x="82.5" y="42.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Nucleo-U545RE-Q</text></g><g stroke-linecap="round" transform="translate(532.3333435058594 129.3333282470703) rotate(0 88 27.666656494140625)"><path d="M13.83 0 C64.59 -0.23, 117.57 -1.34, 162.17 0 M13.83 0 C64.04 -0.29, 116.01 -0.82, 162.17 0 M162.17 0 C171.27 -1.25, 175.38 5.33, 176 13.83 M162.17 0 C172.12 1.5, 176.98 5.22, 176 13.83 M176 13.83 C176.43 25.68, 174.6 35.38, 176 41.5 M176 13.83 C176.88 20.61, 176.93 28.11, 176 41.5 M176 41.5 C176.49 52.69, 173.22 56.51, 162.17 55.33 M176 41.5 C174.78 49.22, 170.41 55.41, 162.17 55.33 M162.17 55.33 C107.56 52.49, 55.23 55.78, 13.83 55.33 M162.17 55.33 C109.79 55.34, 57.58 53.86, 13.83 55.33 M13.83 55.33 C2.66 56.19, -0.56 52.6, 0 41.5 M13.83 55.33 C4.1 56.68, 1.1 52.67, 0 41.5 M0 41.5 C-0.07 33.35, 1.14 29.81, 0 13.83 M0 41.5 C0.43 33.76, 0.05 25.29, 0 13.83 M0 13.83 C1.25 5.9, 4.56 -1.96, 13.83 0 M0 13.83 C-1.14 2.95, 3.74 1.4, 13.83 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(581.8333435058594 144.49998474121094) rotate(0 38.5 12.5)"><text x="38.5" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">RGB LED</text></g><g stroke-linecap="round" transform="translate(11.333343505859375 126.66665649414062) rotate(0 87.99996948242188 31.333328247070312)"><path d="M15.67 0 C48.63 -0.06, 80.67 -0.12, 160.33 0 M15.67 0 C51.01 -0.43, 83.91 -0.05, 160.33 0 M160.33 0 C172.68 0.1, 176.85 4.6, 176 15.67 M160.33 0 C169.2 0.04, 176.39 7.33, 176 15.67 M176 15.67 C174.22 20.82, 177.15 29.36, 176 47 M176 15.67 C174.89 22.4, 175.56 30.53, 176 47 M176 47 C174.75 56.53, 170.55 64.2, 160.33 62.67 M176 47 C178.11 55.21, 172.23 64.82, 160.33 62.67 M160.33 62.67 C126.4 62.76, 90.95 65.63, 15.67 62.67 M160.33 62.67 C128.23 64.13, 95.05 63.78, 15.67 62.67 M15.67 62.67 C3.48 62.4, -1.64 56.95, 0 47 M15.67 62.67 C5.67 62.23, -1.24 58.21, 0 47 M0 47 C-1.45 36.31, 1.3 25.5, 0 15.67 M0 47 C0.1 34.67, -0.22 22, 0 15.67 M0 15.67 C-1.06 4.73, 4.02 0.54, 15.67 0 M0 15.67 C-0.24 6.42, 5.03 1.09, 15.67 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(55.33331298828125 132.99998474121094) rotate(0 44 25)"><text x="44" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">MPU 6050</text><text x="44" y="42.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Sensor</text></g><g stroke-linecap="round" transform="translate(10 244.6666259765625) rotate(0 88.66664123535156 28.999984741210938)"><path d="M14.5 0 C42.24 1.4, 74.15 2.24, 162.83 0 M14.5 0 C51.99 0.37, 88.87 1.68, 162.83 0 M162.83 0 C173.79 0.76, 175.74 3.57, 177.33 14.5 M162.83 0 C172.04 -1.71, 177.46 4.96, 177.33 14.5 M177.33 14.5 C177.81 20.86, 176.52 29.1, 177.33 43.5 M177.33 14.5 C177.86 25.24, 177.54 35.16, 177.33 43.5 M177.33 43.5 C176.18 53.08, 173.13 57.5, 162.83 58 M177.33 43.5 C178.6 53.24, 172.64 60.12, 162.83 58 M162.83 58 C108.45 57.94, 53.01 58.46, 14.5 58 M162.83 58 C109.29 57.1, 55.14 55.81, 14.5 58 M14.5 58 C5.93 56.86, -0.07 51.88, 0 43.5 M14.5 58 C3.31 58.47, 2.03 52.49, 0 43.5 M0 43.5 C0.43 34.25, -0.24 26.14, 0 14.5 M0 43.5 C-0.43 35.69, -0.81 26.57, 0 14.5 M0 14.5 C-1.67 4.18, 2.87 -1.2, 14.5 0 M0 14.5 C-1.34 2.84, 4.43 1.8, 14.5 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(21.666641235351562 261.16661071777344) rotate(0 77 12.5)"><text x="77" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Tactile Button</text></g><g stroke-linecap="round" transform="translate(530.3333435058594 247.99998474121094) rotate(0 87.66665649414062 30)"><path d="M15 0 C69.72 -0.1, 121.84 -0.71, 160.33 0 M15 0 C57.83 0.55, 100.01 -0.72, 160.33 0 M160.33 0 C171.42 -0.63, 174.77 5.39, 175.33 15 M160.33 0 C168.14 1.36, 175.02 7.21, 175.33 15 M175.33 15 C174.12 26.77, 176.24 36.79, 175.33 45 M175.33 15 C174.84 23.47, 175.02 32.64, 175.33 45 M175.33 45 C177.03 53.5, 171.7 59.33, 160.33 60 M175.33 45 C174 53.58, 171.31 60.84, 160.33 60 M160.33 60 C129.27 58.76, 96.95 59.14, 15 60 M160.33 60 C125.06 60.72, 90.71 61.27, 15 60 M15 60 C5.4 61.67, 0.65 53.95, 0 45 M15 60 C3.43 60.58, -1.04 53.96, 0 45 M0 45 C-0.81 36.26, -2.09 29.88, 0 15 M0 45 C-0.59 34.34, 0.54 22.99, 0 15 M0 15 C-1.12 4.54, 3.35 1.62, 15 0 M0 15 C1.44 2.88, 3 2.11, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(535.5 252.99998474121094) rotate(0 82.5 25)"><text x="82.5" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Vibration Motor</text><text x="82.5" y="42.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Module</text></g><g stroke-linecap="round"><g transform="translate(186.33331298828125 151.3333282470703) rotate(0 18.874426990787015 -0.04765461375276914)"><path d="M-0.09 0.27 C6.31 0.28, 32.07 -0.29, 38.55 -0.36 M-0.8 -0.07 C5.51 0.05, 31.51 0.07, 38.06 0.15" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(186.33331298828125 272.6666717529297) rotate(0 18.65866362549599 -0.17160089225509978)"><path d="M0.52 0.18 C6.69 0.09, 31.19 -0.46, 37.19 -0.52 M0.12 -0.2 C6.25 -0.25, 31.03 -0.18, 37.04 -0.09" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(496.3333435058594 151.3333282470703) rotate(0 18.017348310211673 0.33839681210312733)"><path d="M-0.32 0.51 C5.7 0.69, 30.23 0.79, 36.36 0.8 M0.52 0.29 C6.47 0.33, 30.14 -0.24, 36.11 -0.1" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g stroke-linecap="round"><g transform="translate(496.3333435058594 272.6666717529297) rotate(0 16.171908244492954 -0.08572738348971143)"><path d="M-0.39 -0.2 C4.87 -0.29, 26.27 -0.11, 31.67 -0.06 M0.41 -0.77 C5.83 -0.54, 27.52 0.35, 32.73 0.6" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g stroke-linecap="round" transform="translate(176.33331298828125 10) rotate(0 183.3333282470703 30.00000762939453)"><path d="M15 0 C105.31 1.17, 192.61 -1.25, 351.67 0 M15 0 C146.24 -0.8, 277.98 -0.9, 351.67 0 M351.67 0 C362.8 0.98, 366.33 6.65, 366.67 15 M351.67 0 C362.73 2.14, 367.37 5.98, 366.67 15 M366.67 15 C367.02 20.43, 368.07 28.43, 366.67 45 M366.67 15 C365.61 22.61, 367.11 31.6, 366.67 45 M366.67 45 C367.71 56.32, 361.41 61.17, 351.67 60 M366.67 45 C366.76 56.43, 360.06 58.39, 351.67 60 M351.67 60 C229.59 62.33, 105.84 60.28, 15 60 M351.67 60 C225.15 61.45, 98.17 60.37, 15 60 M15 60 C6.23 60.64, -1.82 53.32, 0 45 M15 60 C5.25 58.38, -0.25 53.04, 0 45 M0 45 C-0.6 33.93, 0.79 22.18, 0 15 M0 45 C-0.73 37.81, -0.36 30.83, 0 15 M0 15 C-0.91 5.73, 5.65 -1.96, 15 0 M0 15 C-1.21 6.53, 4.31 -1.01, 15 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(288.16664123535156 27.50000762939453) rotate(0 71.5 12.5)"><text x="71.5" y="17.5" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">PC / Computer</text></g><g stroke-linecap="round"><g transform="translate(356.9999694824219 70.00001525878906) rotate(0 0.34502962962721995 23.831920758185447)"><path d="M-0.17 0.2 C0.04 8.11, 0.72 40.04, 0.86 47.83 M0.75 -0.17 C0.93 7.56, 0.6 39.2, 0.53 47.12" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g transform="translate(362.9999694824219 86.16664123535156) rotate(0 36.30008056640622 9.16668701171875)"><text x="0" y="12.833361816406246" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="14.666699218749995px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">USB Cable</text></g><g transform="translate(498.3332824707031 151.49998474121094) rotate(0 15.542999267578125 8.833328247070312)"><text x="0" y="12.366659545898438" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="14.133325195312501px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">GPIO</text></g><g transform="translate(192.99996948242188 153.8333282470703) rotate(0 12.54000000000002 9.5)"><text x="0" y="13.3" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="15.2px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">I2C</text></g><g transform="translate(190.66659545898438 275.1666717529297) rotate(0 15.546684570312493 8.833343505859375)"><text x="0" y="12.366680908203131" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="14.133349609375006px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">GPIO</text></g><g transform="translate(498.9999694824219 272.49998474121094) rotate(0 13.85995971679688 10.499969482421875)"><text x="0" y="14.699957275390622" font-family="Comic Shanns, monospace, Segoe UI Emoji" font-size="16.799951171874998px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">PWM</text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="background: transparent; background-color: transparent; color-scheme: light dark;"
+   version="1.1"
+   width="481px"
+   height="269px"
+   viewBox="0 0 481 269"
+   id="svg62"
+   sodipodi:docname="d.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1738408"
+     inkscape:cx="227.70757"
+     inkscape:cy="116.38387"
+     inkscape:window-width="1617"
+     inkscape:window-height="945"
+     inkscape:window-x="10"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg62" />
+  <defs
+     id="defs1" />
+  <g
+     id="g62">
+    <g
+       data-cell-id="0"
+       id="g61">
+      <g
+         data-cell-id="1"
+         id="g60">
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-1"
+           id="g4">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g1">
+            <rect
+               x="147.2"
+               y="120"
+               width="176"
+               height="144"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect1"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g3">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g2"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="235.2"
+                 y="190.4"
+                 id="text1">STM32</text>
+              <text
+                 x="235.2"
+                 y="201.6"
+                 id="text2">Nucleo-U545RE-Q</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-2"
+           id="g8">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g5">
+            <rect
+               x="0"
+               y="120"
+               width="99.2"
+               height="48"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect4"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g7">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g6"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="49.6"
+                 y="142.4"
+                 id="text5">MPU 6050</text>
+              <text
+                 x="49.6"
+                 y="153.6"
+                 id="text6">Sensor</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-3"
+           id="g12">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g9">
+            <rect
+               x="371.2"
+               y="120"
+               width="108.8"
+               height="48"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect8"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g11">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g10"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="425.6"
+                 y="148"
+                 id="text9">RGB LED</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-4"
+           id="g16">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g13">
+            <rect
+               x="0"
+               y="216"
+               width="99.2"
+               height="48"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect12"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g15">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g14"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="49.6"
+                 y="244"
+                 id="text13">Tactile Button</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-5"
+           id="g20">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g17">
+            <rect
+               x="371.2"
+               y="212"
+               width="108.8"
+               height="56"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect16"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g19">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g18"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="425.6"
+                 y="244"
+                 id="text17">Vibration Motor Module</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-6"
+           id="g24">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g21">
+            <rect
+               x="91.2"
+               y="0"
+               width="288"
+               height="48"
+               fill="#ffffff"
+               stroke="#000000"
+               stroke-width="0.8"
+               pointer-events="all"
+               id="rect20"
+               style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+          <g
+             id="g23">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g22"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="235.2"
+                 y="28"
+                 id="text21">PC / Computer</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-9"
+           id="g27">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g26">
+            <path
+               d="M 235.2 114.91 L 235.2 53.09"
+               fill="none"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path24"
+               style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 235.2 119.11 L 232.4 113.51 L 235.2 114.91 L 238 113.51 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path25"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 235.2 48.89 L 238 54.49 L 235.2 53.09 L 232.4 54.49 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path26"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-10"
+           id="g30">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g29">
+            <path
+               d="M 104.29 144 L 142.91 144"
+               fill="none"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path27"
+               style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 100.09 144 L 105.69 141.2 L 104.29 144 L 105.69 146.8 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path28"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 147.11 144 L 141.51 146.8 L 142.91 144 L 141.51 141.2 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path29"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-11"
+           id="g33">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g32">
+            <path
+               d="M 104.29 239.95 L 141.58 239.57"
+               fill="none"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path30"
+               style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 100.09 239.99 L 105.67 237.13 L 104.29 239.95 L 105.72 242.73 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path31"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 145.78 239.53 L 140.21 242.39 L 141.58 239.57 L 140.15 236.79 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path32"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-12"
+           id="g36">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g35">
+            <path
+               d="M 328.29 144 L 366.11 144"
+               fill="none"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path33"
+               style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 324.09 144 L 329.69 141.2 L 328.29 144 L 329.69 146.8 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path34"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 370.31 144 L 364.71 146.8 L 366.11 144 L 364.71 141.2 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path35"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-13"
+           id="g39">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g38">
+            <path
+               d="M 327.77 239.96 L 366.11 239.99"
+               fill="none"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path36"
+               style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 323.57 239.95 L 329.17 237.16 L 327.77 239.96 L 329.16 242.76 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path37"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+            <path
+               d="M 370.31 240 L 364.7 242.79 L 366.11 239.99 L 364.71 237.19 Z"
+               fill="#000000"
+               stroke="#000000"
+               stroke-width="0.8"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path38"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));" />
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-14"
+           id="g43">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g40">
+            <rect
+               x="99.2"
+               y="144"
+               width="48"
+               height="24"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect39" />
+          </g>
+          <g
+             id="g42">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g41"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="123.2"
+                 y="160"
+                 id="text40">I2C</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-15"
+           id="g47">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g44">
+            <rect
+               x="99.2"
+               y="240"
+               width="48"
+               height="24"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect43" />
+          </g>
+          <g
+             id="g46">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g45"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="123.2"
+                 y="256"
+                 id="text44">GPIO</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-16"
+           id="g51">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g48">
+            <rect
+               x="323.2"
+               y="144"
+               width="48"
+               height="24"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect47" />
+          </g>
+          <g
+             id="g50">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g49"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="347.2"
+                 y="160"
+                 id="text48">GPIO</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-17"
+           id="g55">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g52">
+            <rect
+               x="323.2"
+               y="240"
+               width="48"
+               height="24"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect51" />
+          </g>
+          <g
+             id="g54">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g53"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="347.2"
+                 y="256"
+                 id="text52">PWM</text>
+            </g>
+          </g>
+        </g>
+        <g
+           data-cell-id="6K2JYsHo5TkIi7qVLp2u-18"
+           id="g59">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g56">
+            <rect
+               x="230.4"
+               y="80"
+               width="64"
+               height="24"
+               fill="none"
+               stroke="none"
+               pointer-events="all"
+               id="rect55" />
+          </g>
+          <g
+             id="g58">
+            <g
+               fill="#000000"
+               font-family="Helvetica"
+               text-anchor="middle"
+               font-size="9.600000000000001px"
+               id="g57"
+               style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+              <text
+                 x="262.4"
+                 y="96"
+                 id="text56">USB Cable</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:#1a1a1a;stroke-width:0.112543"
+     d="m 147.31884,127.34245 v -7.14649 h 44.11687 c 24.26427,0 44.11687,-0.0256 44.11687,-0.057 0,-0.0314 -0.75983,-1.57601 -1.68851,-3.43257 -0.92868,-1.85656 -1.6623,-3.37556 -1.63027,-3.37556 0.032,0 0.71517,0.32919 1.51809,0.73153 0.80291,0.40234 1.48589,0.73153 1.51772,0.73153 0.0318,0 0.0579,-13.64902 0.0579,-30.331157 V 54.13159 l -1.47502,0.739133 c -0.81126,0.406523 -1.49789,0.716266 -1.52583,0.688316 -0.028,-0.02795 0.68645,-1.524679 1.58756,-3.326067 0.90111,-1.801388 1.63838,-3.30091 1.63838,-3.332272 0,-0.03136 -22.99255,-0.05702 -51.09454,-0.05702 H 133.3635 V 48.506049 48.16842 h 103.70841 103.70841 v 0.337629 0.337629 h -52.50169 -52.50169 l 1.6885,3.375565 c 0.92868,1.856561 1.68851,3.401552 1.68851,3.433314 0,0.03176 -0.70902,-0.297438 -1.5756,-0.731555 l -1.5756,-0.789304 v 30.331099 c 0,20.430383 0.0373,30.331103 0.11415,30.331103 0.0628,0 0.7718,-0.32955 1.5756,-0.73234 0.8038,-0.40278 1.46145,-0.70632 1.46145,-0.67453 0,0.0318 -0.75983,1.57681 -1.68851,3.43337 l -1.6885,3.37556 h 44.11723 44.11723 v 7.14649 7.14648 h -0.33763 -0.33763 v -6.80885 -6.80886 h -87.67102 -87.67103 v 6.80886 6.80885 h -0.33763 -0.33762 z"
+     id="path62" />
+</svg>
